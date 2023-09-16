@@ -40,7 +40,7 @@ Go to 'Initialize Swiper' and go down to 'Initialize Swiper'. Copy the block of 
 
 A code editor program is needed. Any should do fine, I used Visual Studio Code to code my website.
 
-If you do use Visual Studio Code as your code editor, install the extension Live Server to be able to run the code in real-time.
+If you do use Visual Studio Code as your code editor, install the extension Live Server to be able to run the code in real-time. After installing this extension, right click the code and click on 'open live server'. You can then see the changes you make to the code live whenever you save and view those changes on the browser the code shows up on.
 
 ![](images/liveserver.png)
 
