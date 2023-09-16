@@ -16,7 +16,7 @@ CSS for the project.
 
 The JavaScript for the website. The code clickable: true is added so that the four dots shown at the bottom of the screen are clickable. This makes it so that clicking on any of the four dots brings the user to the selected image i.e. clicking the first dot shows the first image in the slideshow and so on.
 
-![image-20230916015520327](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916015520327.png)
+![](images/amazonjs.png)
 
 ## Getting Started/Requirements
 
@@ -24,7 +24,7 @@ To run this website, download the code from [github.com/JCV2022/About-Me-Website
 
 To get the source code for the CSS and JavaScript, type in this link [Swiper - The Most Modern Mobile Touch Slider (swiperjs.com)](https://swiperjs.com/) and click on 'Get Started'.
 
-![image-20230916020154330](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916020154330.png)
+![](images/amazonswiper.png)
 
 Scroll down to 'Add Swiper HTML Layout' and copy everything in the block shown below except for the "swiper-scrollbar". This div isn't used in this project. Paste the whole HTML in the HTML file. This was used as a base layout for the index.html file.
 
