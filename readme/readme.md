@@ -4,7 +4,7 @@ An image slider website where the user can press the left or right arrow buttons
 
 This website exists to implements transitions and to utilize slideshows for different images so that these skills can be implemented into real world websites i.e. promoting different clothing and so on.
 
-![image_slider](C:\Users\jonat\Downloads\image_slider.gif)
+![Uploading image_slider.gif…]()
 
 ![image_slider1](C:\Users\jonat\Downloads\image_slider1.gif)
 
