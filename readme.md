@@ -6,7 +6,7 @@ This website exists to implements transitions and to utilize slideshows for diff
 
 ![image_slider](images\image_slider.gif)
 
-![image_slider1](images\image_slider1.gif)
+![image_slider1](images/image_slider1.gif)
 
 ## Core Technical Concepts
 
