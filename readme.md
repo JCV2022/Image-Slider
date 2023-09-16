@@ -28,21 +28,21 @@ To get the source code for the CSS and JavaScript, type in this link [Swiper - T
 
 Scroll down to 'Add Swiper HTML Layout' and copy everything in the block shown below except for the "swiper-scrollbar". This div isn't used in this project. Paste the whole HTML in the HTML file. This was used as a base layout for the index.html file.
 
-![image-20230916020319885](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916020319885.png)
+![](images/amazonswiper1.png)
 
 Go back up to 'Use Swiper from CDN' then copy the first block. Paste the <link> in head tag of the HTML file. Paste the <script> in the <body> at the bottom.
 
-![image-20230916020300919](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916020300919.png)
+![](images/amazonswiper2.png)
 
 Go to 'Initialize Swiper' and go down to 'Initialize Swiper'. Copy the block of code and paste it in a JavaScript file. Delete the scrollbar function.
 
-![image-20230916020951594](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916020951594.png)
+![](images/amazonswiper3.png")
 
 A code editor program is needed. Any should do fine, I used Visual Studio Code to code my website.
 
 If you do use Visual Studio Code as your code editor, install the extension Live Server to be able to run the code in real-time.
 
-![image-20230910181043468](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230910181043468.png)
+![](images/liveserver.png")
 
 ## Todo
 
