@@ -24,19 +24,19 @@ To run this website, download the code from [github.com/JCV2022/About-Me-Website
 
 To get the source code for the CSS and JavaScript, type in this link [Swiper - The Most Modern Mobile Touch Slider (swiperjs.com)](https://swiperjs.com/) and click on 'Get Started'.
 
-![](images/amazonswiper.png)
+![](images/swiper.png)
 
 Scroll down to 'Add Swiper HTML Layout' and copy everything in the block shown below except for the "swiper-scrollbar". This div isn't used in this project. Paste the whole HTML in the HTML file. This was used as a base layout for the index.html file.
 
-![](images/amazonswiper1.png)
+![](images/swiper1.png)
 
 Go back up to 'Use Swiper from CDN' then copy the first block. Paste the <link> in head tag of the HTML file. Paste the <script> in the <body> at the bottom.
 
-![](images/amazonswiper2.png)
+![](images/swiper2.png)
 
 Go to 'Initialize Swiper' and go down to 'Initialize Swiper'. Copy the block of code and paste it in a JavaScript file. Delete the scrollbar function.
 
-![](images/amazonswiper3.png)
+![](images/swiper3.png)
 
 A code editor program is needed. Any should do fine, I used Visual Studio Code to code my website.
 
