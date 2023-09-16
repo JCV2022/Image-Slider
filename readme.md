@@ -36,13 +36,13 @@ Go back up to 'Use Swiper from CDN' then copy the first block. Paste the <link> 
 
 Go to 'Initialize Swiper' and go down to 'Initialize Swiper'. Copy the block of code and paste it in a JavaScript file. Delete the scrollbar function.
 
-![](images/amazonswiper3.png")
+![](images/amazonswiper3.png)
 
 A code editor program is needed. Any should do fine, I used Visual Studio Code to code my website.
 
 If you do use Visual Studio Code as your code editor, install the extension Live Server to be able to run the code in real-time.
 
-![](images/liveserver.png")
+![](images/liveserver.png)
 
 ## Todo
 
