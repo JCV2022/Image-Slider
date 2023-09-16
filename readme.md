@@ -12,7 +12,7 @@ This website exists to implements transitions and to utilize slideshows for diff
 
 CSS for the project. 
 
-![image-20230916022038756](C:\Users\jonat\AppData\Roaming\Typora\typora-user-images\image-20230916022038756.png)
+![](images/amazoncss.png)
 
 The JavaScript for the website. The code clickable: true is added so that the four dots shown at the bottom of the screen are clickable. This makes it so that clicking on any of the four dots brings the user to the selected image i.e. clicking the first dot shows the first image in the slideshow and so on.
 
